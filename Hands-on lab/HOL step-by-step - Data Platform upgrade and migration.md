@@ -118,7 +118,7 @@ In this task, you will create an RDP connection to the SqlServer2008 VM.
 
     ![The Connect to virtual machine blade is displayed, and the Download RDP file button is highlighted.](./media/connect-to-virtual-machine.png "Connect to virtual machine")
 
-5. Select **Connect** on the Remote Desktop Connection dialog.
+5. Select **Connect** on the Remote Desktop Connection dialog
 
     ![In the Remote Desktop Connection Dialog Box, the Connect button is highlighted.](./media/remote-desktop-connection.png "Remote Desktop Connection dialog")
 
